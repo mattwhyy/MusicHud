@@ -1,8 +1,12 @@
-[Modrinth](https://modrinth.com/plugin/musichud) | [Discord](https://discordapp.com/users/555629040455909406) | [GitHub](https://github.com/mattwhyy/MusicHud)
-
-![project version](https://img.shields.io/modrinth/v/musichud) ![game versions](https://img.shields.io/modrinth/game-versions/musichud?color=yellow) ![project downloads](https://img.shields.io/modrinth/dt/musichud) ![platforms](https://img.shields.io/badge/build-neoforge-brightgreen?style=flat&label=platforms&color=purple)
-
 # MusicHud
+![Enviroment](https://img.shields.io/badge/Enviroment-Client-blue?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AYht%2BmalUqDnYQEclQneyiIo6likWwUNoKrTqYXPoHTRqSFBdHwbXg4M9i1cHFWVcHV0EQ%2FAFxdnBSdJESv0sKLWI8uLuH97735e47QGhUmGp2RQFVs4xUPCZmc6ti4BU9CKCP1jGJmXoivZiB5%2Fi6h4%2FvdxGe5V335xhQ8iYDfCJxlOmGRbxBPLtp6Zz3iUOsJCnE58STBl2Q%2BJHrsstvnIsOCzwzZGRS88QhYrHYwXIHs5KhEs8QhxVVo3wh67LCeYuzWqmx1j35C4N5bSXNdZqjiGMJCSQhQkYNZVRgIUK7RoqJFJ3HPPwjjj9JLplcZTByLKAKFZLjB%2F%2BD3701C9NTblIwBnS%2F2PbHOBDYBZp12%2F4%2Btu3mCeB%2FBq60tr%2FaAOY%2BSa%2B3tfARMLgNXFy3NXkPuNwBhp90yZAcyU9TKBSA9zP6phwwdAv0r7l9a53j9AHIUK%2BWb4CDQ2CiSNnrHu%2Fu7ezbvzWt%2Fv0ATphymIBZ6aQAAAAGYktHRAAKAAwAGd6C8noAAAAJcEhZcwAADdcAAA3XAUIom3gAAAAHdElNRQfoBgcOHRYlcgoRAAABRklEQVR42u2YMUoDQRRAX0axUzCteIZ4hKn0FDmFhalSWKkgnkHt9AQWwhzBNr2tBGNno82ACwm6EZvxvwdTzP8s7P8zu8w8EJHIDABKKfvAFXAIbP%2Fzmt%2BAR2CSc54NavFPwDDY4s%2BBUaorPwy4%2B3eBy1S3fVSOUoBv%2Fjt2UmMv%2FA6cAHt1TGqsb36JzcYaMM05X3Tm56UUgLOe%2BSVa2wE3K2LXa%2BSbb8BgRWxjjXzzDRj%2FEBv3fOarY6WUj8Z%2BglPgtlPcKbDVM998A%2F6cVM%2FGUXlN9WIQlYdUDwvzgMW%2FAMcp5zwDRsA9sAhQ%2BAK4Aw5yzs8aEZHY6AR1gjpBnaBOsLHrsE6wM9cJohPUCeoE0Qn%2BHp0gOkGdoE5QRMKiE9QJ6gR1gjrBxq7DOsHOXCeITlAnqBNEJ%2Fh7dILoBHWCOkERCcsncuextWq5TzoAAAAASUVORK5CYII%3D&color=blue)
+![Versions](https://img.shields.io/modrinth/game-versions/musichud?&label=Versions&color=%23249141)
+
+![NeoForge](https://img.shields.io/badge/Available%20for-NeoForge-orange?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABhGlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV%2FTiqIVBwuKOASsTnZREcdSxSJYKG2FVh1MLv2CJg1Jiouj4Fpw8GOx6uDirKuDqyAIfoC4ujgpukiJ%2F0sKLWI8OO7Hu3uPu3eA0Kgw1QxEAVWzjFQ8JmZzq2L3K%2FoQQgBjGJKYqSfSixl4jq97%2BPh6F%2BFZ3uf%2BHP1K3mSATySOMt2wiDeIZzctnfM%2BcYiVJIX4nHjSoAsSP3JddvmNc9FhgWeGjExqnjhELBY7WO5gVjJU4hnisKJqlC9kXVY4b3FWKzXWuid%2FYTCvraS5TnMUcSwhgSREyKihjAosRGjVSDGRov2Yh3%2FE8SfJJZOrDEaOBVShQnL84H%2Fwu1uzMD3lJgVjQNeLbX%2BMA927QLNu29%2FHtt08AfzPwJXW9lcbwNwn6fW2Fj4CBraBi%2Bu2Ju8BlzvA8JMuGZIj%2BWkKhQLwfkbflAMGb4HeNbe31j5OH4AMdbV8AxwcAhNFyl73eHdPZ2%2F%2Fnmn19wOjxHK68ogHXgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB%2BcLFAQpNXrCg1cAAAHsUExURQAAAIuOlHV1gIuOlH6AiYuOlJ6jpxMVGh4hKSYqM2ZTTXFcVXV1gHlSSHtjXIGDjIJtZ4OFjYSGjoVqYoWHj4aIj4dudYeEhYqNlIuOlIyPlo1xaI15c42Jho2QlpCUmZOWnJSSj5SXnJWZnpaboJdPPZeboJidoZqfo5taQpyhpZ5VJp9XLJ%2BkqKBZMaClqaFTO6KMh6Koq6OprKRON6WqrqWrrqZoW6ZxaaatsKeKiKetsKitsaiusamfn6mjpKqUjaqws6tTNqyzsqyztq6pp6%2B2uLGalrKjobK5u7NZNbS8vbW7u7W9vrW9v7afnbaoora%2Bv7a%2FwLeBjLehnbeqqLi%2Fv7jAwbjCwrldNbnBw7vExb1mK73Fx73Gxr3Hx76Zjr9hNL%2BEcr%2B7ub%2FHxsBjM8DIysDKysF3a8GJd8GcksHLy8LMzMOHi8PLysPNzcPOzcTOzsVmM8XPz8bR0MejucfR0cjT08nU08qwrMtrMsttLcvU1cvV1cy%2FuszAu83X2M5tMc90Nc%2Fa2c%2Fa2tFwMNKgjNNxMNRyMNR5NtSMatS6t9TMytXg39d0L9nCu9nl5NuWd9zY2N3Iw96%2Btt%2BwnuCCNODNzeKHNeLu7eaMN%2Bby8efZ0%2Bja2Ozg3O%2Fo5%2FDn5PXu7Pn09P%2F%2F%2F%2BRBO4EAAAAHdFJOUwAQQEBwgJ%2Bal5Z5AAAAAWJLR0Sjx9rvGgAAAkNJREFUGBkFwT9vG3UAANB3dz%2F7bNfnxO61UkAhiSBCFGWhHcqGxMrKxtfgMyCVL8HYHRbKyNCJobJYIEoqkWIwSWPHzdkX3x%2Fei0QxAAAAmjaIHwIAAGBeh070hN0%2BYFkAAD%2FHId%2F7gmEMuK0BgDezIB3OXh12M%2BY%2F8uXe6u%2BXfP4e1vNsshGEuFrM0pazf%2Flncn11xVUf5eIuaiRZ3bSHqtvbH16Pq%2BbowXBxHnZOf%2F%2BUsDPwpozF404dehcXUed4pLy6Ko2OO9HFBaqyFfT2%2F5vlyUvj429%2BevH62tKTr%2Fz50tcsiq2gLiqVxGa5bZN7I1XSbpebBNJtJMnCoLApmnxWHizDx%2FnuOJr4tfgkf0iazcoA4GC0eTDZT5XDZHN0A8pVIwB46t1ePog1w8vZI1NYFZUAOPYRCTC6xwYgAHr6ALroaYAAkvZE3m7LknekaSc6MY1qCFWFJl7T%2FJX2GliWh8laL6oTdRWvC7T16anVs%2Bc2BZ4%2FWzk9zYY7Q7frgHJVt481d21jVUqzpr1r9vwRda4RsCrWVa66aVvLa%2BOsbW92cy9CH5Ju%2BmGxTToXZx8k%2BdNBOp4Mw8H7%2B80vZ22ImFcBxObq8Bkp3L%2BvnsuAAGDK49G3C7vf3%2FwGgBgAAAAgADJTHo2%2Ba8TWUzKAoCnLy1GXwNtJUQmDtwHc3fSGRMPeyfnlUQ7KO9BNweV5fjTdBAwmXSAAAehOBggYdvpAkgBAf5wiiuPdukliAAA0dZwsmkg8AAAAQNEAAAAA%2BB8LzexYIpdh2QAAAABJRU5ErkJggg%3D%3D)
+
+[![Download on Modrinth](https://img.shields.io/modrinth/dt/musichud?style=flat&logo=modrinth&label=Download%20on%20Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fmusichud)](https://modrinth.com/mod/musichud)
+[![Download on GitHub](https://img.shields.io/github/downloads/mattwhyy/MusicHud/total?style=flat&logo=github&label=Download%20on%20GitHub)](https://github.com/mattwhyy/MusicHud/releases)
+
 **MusicHUD** is a lightweight mod that aims to appreciate the amazing soundtrack of Minecraft a bit more. It displays a popup with **"Now Playing:"** whenever a new song starts playing in-game, so you always know what the song currently playing is.
 
 ![showcase](https://cdn.modrinth.com/data/cached_images/7bbba70060b2583fb34d5f511346e402e3e7da9f.gif)
@@ -16,6 +20,11 @@ You can set **custom titles** for non-vanilla songs by adding them to **en_us.js
 ## Note
 This mod is in its **early stages** yet, so not many versions and platforms are supported.
 I promise more is **coming**!
+## Contact
+
+[![Discord Contact](https://img.shields.io/badge/Contact%20on-Discord-%235865f2?logo=discord&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F555629040455909406)](https://discord.com/users/555629040455909406)
+[![GitHub](https://img.shields.io/badge/Contact%20on-GitHub-green?logo=github&link=left-https%3A%2F%2Fgithub.com%2Fmattwhyy%2FMusicHud%2Fissues
+)](https://github.com/mattwhyy/MusicHud/issues)
 ## Setup
 Put the `.jar` file into your **mods folder**.
 
